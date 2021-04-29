@@ -37,6 +37,7 @@ public class DeleteArrayElement {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// Just commented
+		// Again commented
 		DeleteArrayElem de = new DeleteArrayElem();
 		de.readArray();
 	}
